@@ -20,6 +20,3 @@ end
  end
  
  
- def input_to_index(index)
-   input = input.to_i -1
- end
